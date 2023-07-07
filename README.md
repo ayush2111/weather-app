@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Weather App
 Created a web application which  provides real-time weather information based on user's input location using an API. It offers a simple and intuitive interface, displaying current weather conditions, temperature, humidity, pressure and wind speed.
 
 # Screenshots
